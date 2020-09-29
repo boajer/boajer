@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am coffee addict  
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M02AO6P)
+
+
 <!--
 **boajer/boajer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +20,3 @@ Here are some ideas to get you started:
 -->
 
 ![counter](https://enbjcdg9lz2jfbj.m.pipedream.net)
-
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M02AO6P)
